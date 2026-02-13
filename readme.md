@@ -4,13 +4,14 @@
   <a href="https://www.linkedin.com/in/chandini-makireddy-14003b259/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:chandinimakireddy123@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chandinimakireddy123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/chandini_makireddy">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 <img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
@@ -27,9 +28,8 @@ Driven by precision, analytical thinking, and continuous technical growth.
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering (2022–2026)  
-- 🏫 BVRIT Hyderabad College of Engineering for Women  
-- 🚀 Hackathon participant – NASA Space Apps & MAT-HACK  
-- 🔬 Interested in VLSI Design, Database Management & AI-based Applications  
+- 🏫 BVRIT Hyderabad College of Engineering for Women   
+- 🔬 Interested in Database Management & AI-based Application,Software Development and VLSI Design 
 
 ---
 
